@@ -8,4 +8,6 @@ def main(a, b):
      Qaytaradi:
      int: natija.
      '''
-    return
+    import math
+    return math.log(a,b)
+print(main(1000,10))

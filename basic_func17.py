@@ -7,4 +7,6 @@ def main():
      Qaytaradi:
      float: pi qiymati.
      '''
-    return
+   import math
+   return math.pi
+print(main())

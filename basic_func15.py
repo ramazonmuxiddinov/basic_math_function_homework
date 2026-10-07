@@ -8,4 +8,6 @@ def main(a, b):
      Qaytaradi:
      int: natija.
      '''
-    return
+    import math
+    return pow(a%b,3)
+print(main(23,5))

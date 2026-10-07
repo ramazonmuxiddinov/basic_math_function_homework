@@ -7,4 +7,5 @@ def main(a):
      Qaytish:
      int: mutlaq qiymat.
     '''
-    return
+    return abs(a)
+print(main(-8))
